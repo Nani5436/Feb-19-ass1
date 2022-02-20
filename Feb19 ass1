@@ -1,0 +1,8 @@
+def is_leap(year):
+     leap=false
+     return leap 
+     
+yaer=int(input())
+
+
+
