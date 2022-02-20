@@ -1,0 +1,19 @@
+Def myprime(n):
+
+For I in range(2,n):
+
+If n%i==0:
+
+Return false
+
+Return true
+
+T=int(input())
+
+For I in range(t):
+
+N=int(input())
+
+C=0
+
+For I in range(2,n+1):
